@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "DTMA YouTube",
+    "description": "Block PopUp on YouTube to ask disable your adblocker",
+    "version": "1.0",
+    "permissions":[
+      "activeTab", "tabs", "storage"
+    ],
+    "content_scripts":[
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["/scripts/content.js"]
+      }
+    ],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "/img/new-icon.png"
+    }
+  }

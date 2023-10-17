@@ -1,0 +1,152 @@
+/* Import poppins from google fonts */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+body{
+    font-family: "Poppins", sans-serif;
+    background-image: url("/img/background_blur.png");
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 300px;
+
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px;
+}
+
+div p span{
+    color: red;
+}
+
+
+
+div{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    padding: 20px;
+}
+/* The switch - the box around the slider */
+.switch {
+    font-size: 17px;
+    position: relative;
+    display: inline-block;
+    width: 62px;
+    height: 35px;
+   }
+   
+   /* Hide default HTML checkbox */
+   .switch input {
+    opacity: 1;
+    width: 0;
+    height: 0;
+   }
+   
+   /* The slider */
+   .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    background: #fff;
+    transition: .4s;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+   }
+   
+   .slider:before {
+    position: absolute;
+    content: "";
+    height: 1.9em;
+    width: 1.9em;
+    border-radius: 16px;
+    left: 1.2px;
+    top: 0;
+    bottom: 0;
+    background-color: white;
+    box-shadow: 0 2px 5px #999999;
+    transition: .4s;
+   }
+   
+   input:checked + .slider {
+    background-color: #5fdd54;
+    border: 1px solid transparent;
+   }
+   
+   input:checked + .slider:before {
+    transform: translateX(1.5em);
+   }
+
+
+nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+
+}
+
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    
+}
+nav ul li:last-child{
+    margin-right: 15px;
+    padding: 0px;
+}
+
+nav  ul li:first-child{
+    margin-right: 5px;
+    padding: 0px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.3s ease 0s;
+    padding: 0px;
+}
+
+nav ul li a div{
+    border-radius: 3px;
+    height: 3px;
+    border: none;
+    padding: 0;
+    background-color: white;
+    margin: 0;
+    width: 0%;
+    margin-left: auto;
+}
+
+nav ul li a:hover div{
+    animation: underline 0.3s ease-in-out forwards;
+}
+
+@keyframes underline{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
