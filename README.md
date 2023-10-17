@@ -15,7 +15,7 @@ This Chrome will remove that PopUp and instantly play your video to keep watchin
 
 <h2>Installation ⬇️ </h2>
 
-[Click here to download](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.0/source.v1.zip), once you downloaded it, now just follow the nexts steps. (If you have any problems you can check the tutorial):
+[Click here to download](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.1/source.v1.1.zip), once you downloaded it, now just follow the nexts steps. (If you have any problems you can check the tutorial):
 
 - Open a new tab on Chrome click on options
 - Go to extensions and click on "Manage extension"
