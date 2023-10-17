@@ -4,7 +4,7 @@ This Chrome extension allows you to remove the Youtube popUp to disable your adb
 
 #### Sections
 - [Introduction ⭐](https://github.com/iSaulX/DTMA-YouTube#do-you-get-tired-of-this-popup-)
-- [Installation ⬇️](https://github.com/iSaulX/DTMA-YouTube/edit/main/README.md#installation-%EF%B8%8F-)
+- [Installation ⬇️](https://github.com/iSaulX/DTMA-YouTube#installation-%EF%B8%8F-)
 
 <h2 id='Introduction'>Do you get tired of this popUp? </h2>
 <img src='/images/popUp.png'>
