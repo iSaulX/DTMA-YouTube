@@ -14,7 +14,7 @@ const strings = {
       'support': 'Support us',
       'prot': 'The protection is: ',
       'css' : '<div></div>'
-    }
+    },
     'uk': {
         'on': 'УВІМКНЕНО',
         'off': 'ВИМКНЕНО',
