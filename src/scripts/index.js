@@ -12,3 +12,16 @@ button.onclick = () => {
         textToReplance.style.color = 'red';
         chrome.storage.local.set({'isActive': false});
     }
+
+    
+chrome.storage.local.get(['isActive'], function(result) {
+    if(result.isActive){
+        button.checked = true;
+        textToReplance.innerHTML = 'ON';
+        textToReplance.style.color = 'green';
+    } else {
+        button.checked = false;
+        textToReplance.innerHTML = 'OFF';
+        textToReplance.style.color = 'red';
+    }
+});
