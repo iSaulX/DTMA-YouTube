@@ -150,33 +150,3 @@ nav ul li a:hover div{
         width: 90%;
     }
 }
-
-.language-select {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    margin: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-    width: 100px;
-    height: 30px;
-    border-radius: 3px;
-    background-color: rgba(255, 255, 255, 0.1);
-    border: none;
-    outline: none;
-    transition: all 0.3s ease 0s;
-}
-
-select[name="language"] {
-    padding: 7px;
-    border-radius: 3px;
-    background-color: rgb(20, 20, 20);
-    border: rgba(104, 104, 104, 1);
-    border-width: 3px;
-    color: white;
-    outline: none;
-    width: 100%;
-
-}
