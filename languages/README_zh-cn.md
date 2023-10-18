@@ -15,7 +15,7 @@
 
 <h2>安装 ⬇️ </h2>
 
-[点击这里下载](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.1/source.v1.1.zip), 一旦你下载了它，现在只需按照下一步。 （如果您有任何问题，可以查看下面的教程）：
+[点击这里下载](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.2/source.v1.2.zip), 一旦你下载了它，现在只需按照下一步。 （如果您有任何问题，可以查看下面的教程）：
 
 - 在 Chrome 上打开一个新标签，点击选项
 - 转到扩展并点击“管理扩展”

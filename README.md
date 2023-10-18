@@ -2,6 +2,12 @@
 
 This Chrome extension allows you to remove the Youtube popUp asking to disable your adblock.
 
+Switch to your language:
+[Español 🇪🇸](/languages/README_es.md)
+[Deutsch 🇩🇪](/languages/README_de.md)
+[Українська 🇺🇦](/languages/README_uk.md)
+[简体中文 🇨🇳](/languages/README_zh-cn.md)
+
 #### Sections
 - [Introduction ⭐](https://github.com/iSaulX/DTMA-YouTube#do-you-get-tired-of-this-popup-)
 - [Installation ⬇️](https://github.com/iSaulX/DTMA-YouTube#installation-%EF%B8%8F-)
@@ -15,7 +21,7 @@ This Chrome exstension will remove that PopUp and instantly play your video to k
 
 <h2>Installation ⬇️ </h2>
 
-[Click here to download](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.1/source.v1.1.zip), once you downloaded it, follow these nexts steps. (If you have any problems you can check the tutorial):
+[Click here to download](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.2/source.v1.2.zip), once you downloaded it, follow these nexts steps. (If you have any problems you can check the tutorial):
 
 - Open a new tab on Chrome and click on options.
 - Navigate to the extensions section and select "Manage extensions."

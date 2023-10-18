@@ -15,7 +15,7 @@ Diese Chrome wird das Pop-up entfernen und Ihr Video sofort abspielen, um weiter
 
 <h2>Installation ⬇️ </h2>
 
-[Klicken Sie hier, um herunterzuladen](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.1/source.v1.1.zip), sobald Sie es heruntergeladen haben, folgen Sie einfach den nächsten Schritten. (Wenn Sie Probleme haben, können Sie das Tutorial überprüfen):
+[Klicken Sie hier, um herunterzuladen](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.2/source.v1.2.zip), sobald Sie es heruntergeladen haben, folgen Sie einfach den nächsten Schritten. (Wenn Sie Probleme haben, können Sie das Tutorial überprüfen):
 
 - Öffnen Sie eine neue Registerkarte in Chrome, klicken Sie auf Optionen
 - Gehen Sie zu Erweiterungen und klicken Sie auf "Erweiterungsverwaltung"
