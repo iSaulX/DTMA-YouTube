@@ -19,7 +19,7 @@ This Chrome will remove that PopUp and instantly play your video to keep watchin
 
 - Open a new tab on Chrome click on options
 - Go to extensions and click on "Manage extension"
-- Now click on developer moder
+- Now click on developer mode
 - Open your download folder and drag-and-drop the file you downloaded
 - Now just left open a new chrome tab, pin the extension and active the protection
 
