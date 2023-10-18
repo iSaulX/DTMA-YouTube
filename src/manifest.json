@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "DTMA YouTube",
     "description": "Block PopUp on YouTube to ask disable your adblocker",
-    "version": "1.0",
+    "version": "1.2",
     "permissions":[
       "activeTab", "tabs", "storage"
     ],
