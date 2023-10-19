@@ -16,7 +16,7 @@ Essa extensão do Chrome vai remover esse PopUp instantaneamente para você cont
 
 <h2>Instalação ⬇️ </h2>
 
-[Clique aqui para baixar](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.2/source.v1.2.zip), depois de baixar, siga esses passos:
+[Clique aqui para baixar](https://github.com/iSaulX/DTMA-YouTube/releases/download/v1.2/source.v1.2.zip). Depois de baixar, siga esses passos:
 
 - Abra uma nova guia no Chrome e clique em opções
 - Navegue até a sessão de extenções e selecione "Gerenciar extensões"
@@ -37,7 +37,7 @@ Essa extensão foi testada no Chrome e no Microsoft Edge. Entretanto, se você q
 
 #### Eu preciso usar um AdBlock junto?
 
-Sim! Essa extensão é apenas para bloquear o PopUp anti-adblock do Youtube. Eu testei com [Adguard] (https://adguard.com/es/welcome.html) e funciona!
+Sim! Essa extensão é apenas para bloquear o PopUp anti-adblock do Youtube. Eu testei com [Adguard](https://adguard.com/es/welcome.html) e funciona!
 
 #### Por que essa extensão não está publicada na Loja de extensões do Chrome?
 
