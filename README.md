@@ -7,6 +7,7 @@ Switch to your language:
 - [Deutsch 🇩🇪](/languages/README_de.md)
 - [Українська 🇺🇦](/languages/README_uk.md)
 - [简体中文 🇨🇳](/languages/README_zh-cn.md)
+- [Bahasa Indonesia 🇮🇩](/languages/README_id.md)
 
 #### Sections
 - [Introduction ⭐](https://github.com/iSaulX/DTMA-YouTube#do-you-get-tired-of-this-popup-)
