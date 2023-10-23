@@ -10,6 +10,7 @@ Switch to your language:
 - [Bahasa Indonesia 🇮🇩](/languages/README_id.md)
 - [Portuguese 🇧🇷](/languages/README_ptbr.md)
 - [हिंदी](/languages/README_hind.md)
+- [বাংলা 🇮🇳](/languages/README_bengali.md)
 
 #### Sections
 - [Introduction ⭐](https://github.com/iSaulX/DTMA-YouTube#do-you-get-tired-of-this-popup-)
