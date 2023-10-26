@@ -42,7 +42,7 @@ Ouais ! Cette extension n'est là que pour bloquer la Popup anti bloqueur de pub
 
 #### Pourquoi n'est-elle pas publiée sur le Web Store de Chrome ?
 
-Les projets tels que [FastForward](https://github.com/FastForwardTeam/FastForward) (une extension Chrome fait pour outrepasser les raccourcisserus) à été retiré sur Web Store de Chrome à cause d'accusations d' "outrepasser les paiements", ce qui n'est pas correct. De ce fait, il y a un risque que ce projet soit retiré également s'il devait être publié sur le Web Store de Chrome.
+Les projets tels que [FastForward](https://github.com/FastForwardTeam/FastForward) (une extension Chrome fait pour outrepasser les raccourcisserus) à été retiré sur le Web Store de Chrome à cause d'accusations d' "outrepasser les paiements", ce qui n'est pas correct. De ce fait, il y a un risque que ce projet soit retiré également s'il devait être publié sur le Web Store de Chrome.
 
 #### Puis-je aider à ce projet ?
 
