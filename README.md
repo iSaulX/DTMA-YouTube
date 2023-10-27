@@ -12,6 +12,7 @@ This Chrome extension allows you to remove the Youtube Pop Up asking to disable 
 - [Portuguese 🇧🇷](/languages/README_ptbr.md)
 - [हिंदी 🇮🇳](/languages/README_hindi.md)
 - [বাংলা 🇮🇳](/languages/README_bengali.md)
+- [Français 🇫🇷](/languages/README_fr.md)
 
 ## Contents
 
