@@ -44,4 +44,4 @@ https://github.com/iSaulX/DTMA-YouTube/assets/115506411/e6b07689-7f8d-4b77-88b0-
 
 #### 我可以支持這個項目嗎？
 
-是的！❤️ 歡迎為改進本計畫和幫助社區做出任何貢獻。 請參閱 "[貢獻](#%E8%B2%A2%E7%8D%BB%E9%80%99%E5%80%8B%E9%A0%85%E7%9B%AE-%EF%B8%8F)"，以了解更多說明。
+是的！❤️ 歡迎為改進本計畫和幫助社區做出任何貢獻。 請參閱 "[貢獻](https://github.com/iSaulX/DTMA-YouTube/blob/main/CONTRIBUTING.md)"，以了解更多說明。
